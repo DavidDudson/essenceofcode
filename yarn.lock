@@ -4947,9 +4947,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"essence-of-codes@workspace:.":
+"essence-of-code@workspace:.":
   version: 0.0.0-use.local
-  resolution: "essence-of-codes@workspace:."
+  resolution: "essence-of-code@workspace:."
   dependencies:
     "@docusaurus/core": 2.0.0-beta.15
     "@docusaurus/module-type-aliases": 2.0.0-beta.15

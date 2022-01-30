@@ -1,8 +1,9 @@
 ---
-sidebar_position: 1
+title: Home
 ---
 
-# Welcome
+
+# Home
 
 Welcome to the Essence of Code, where we dive into topics you may already know, at a much deeper level.
 
